@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
     private TextView dayTV, hourTV, minuteTV, secondTV;
     private ImageView background;
-    private String cyberpunk2077Release = "16-04-2020";
+    private String cyberpunk2077Release = "19-11-2020";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
