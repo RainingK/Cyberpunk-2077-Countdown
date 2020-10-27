@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Cyberpunk-2077-Countdown.iml" filepath="$PROJECT_DIR$/.idea/Cyberpunk-2077-Countdown.iml" group="Cyberpunk-2077-Countdown" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Cyberpunk-2077-Countdown/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cyberpunk-2077-Countdown.iml" filepath="$PROJECT_DIR$/.idea/Cyberpunk-2077-Countdown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Cyberpunk-2077-Countdown.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Cyberpunk-2077-Countdown.app.iml" />
     </modules>
   </component>
 </project>
